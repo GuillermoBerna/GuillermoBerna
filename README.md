@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuillermoBerna I live in Chile 27 years
+- 👋 Hi, I’m @GuillermoBerna I live in Chile 28 years
 - 👀 I’m interested in developing front end and Fullstack 
 - 🌱 I’m currently learning PHP and Vue.js 
 - 💞️ I’m looking to collaborate on IT group and training
